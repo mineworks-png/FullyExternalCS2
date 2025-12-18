@@ -15,7 +15,7 @@ It was created for the _purpose_ of _improving_ Windows API skills.
 
 #### AimBot
 
-- Key activation with RCS (default = LBUTTON)
+- Key activation with RCS (default = BUTTON 5)
 - Visibility check
 
 #### Esp
@@ -89,4 +89,5 @@ If you have issues or have questions, check out the Issues section of the GitHub
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sweeperxz/FullyExternalCS2&type=Date)](https://star-history.com/#sweeperxz/FullyExternalCS2&Date)
+
 
